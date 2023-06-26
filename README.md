@@ -17,7 +17,7 @@ This project aims to predict the number of Likes a video gets based on the Comme
 
 - `comments.csv` and  `video-stats.csv`: The datasets used in the project.
 - `Entevyuv 10.0 Task.pdf`: file provides the problem statement for the project, details about the dataset used etc.
-- `Entevyuv 10.0 Task_Vinodhini.ipynb`: Jupyter Notebook containing the whole project.
+- `Entevyuv_10.0_Task_Vinodhini.ipynb`: Jupyter Notebook containing the whole project.
 - `Entevyuv 10 presentation by Vinodhini.pptx`: Powerpoint presentation of the project.
 - `Entevyuv 10 presentation by Vinodhini.pdf`: PowerPoint presentation of the project in pdf format (Incase ppt did not work).
 
